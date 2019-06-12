@@ -1,0 +1,40 @@
+baseURL = "/"
+languageCode = "en"
+defaultContentLanguage = "en"
+title = "Stip"
+theme = "stip-hugo"
+disableKinds = ["page", "section", "taxonomy", "taxonomyTerm"]
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+[Author]
+    name = "Ashraf Khan"
+    bio = "Professional novelty detector"
+
+[params]
+
+    [[params.links]]
+        iconset = "fas"
+        icon = "envelope"
+        title = "E-mail"
+        url = "ashraf.iiu@gmail.com"
+
+    #[[params.links]]
+    #    icon = "github"
+    #   title = "Github"
+    #  url = "https://github.com/"
+
+    [[params.links]]
+        icon = "twitter"
+        title = "Twitter"
+        url = "https://twitter.com/"
+        
+    [[params.links]]
+        icon = "google scholar"
+        title = "google scholar"
+        url = "https://twitter.com/" 
+        
+    [[params.links]]
+        icon = "facebook"
+        title = "facebook"
+        url = "https://www.facebook.com/ashraf.k.mohmand"    
+      
