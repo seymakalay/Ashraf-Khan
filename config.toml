@@ -31,7 +31,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     [[params.links]]
         icon = "google scholar"
         title = "google scholar"
-        url = "https://twitter.com/" 
+        url = "https://scholar.google.com.pk/citations?user=4uOlQNkAAAAJ&hl=en" 
         
     [[params.links]]
         icon = "facebook"
